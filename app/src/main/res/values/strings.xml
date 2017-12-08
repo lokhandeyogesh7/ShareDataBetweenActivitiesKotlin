@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Share Data Between Activities</string>
+    <string name="first_activity">First Activity</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+</resources>
+
